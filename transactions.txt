@@ -1,0 +1,2 @@
+Date: Mon Jul 21 15:19:00 IST 2025 | Book ID: 2 | Member: kkk | Contact: 1234567890 | Action: ISSUED
+Date: Mon Jul 21 15:20:11 IST 2025 | Book ID: 2 | Member: kkk | Action: RETURNED

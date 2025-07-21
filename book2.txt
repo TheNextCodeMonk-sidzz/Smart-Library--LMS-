@@ -1,0 +1,9 @@
+Book ID       : 2
+Book Title    : hello
+Author Name   : ewwewwqe
+Genre         : wqeqwewqwe
+Publisher     : qwwqewq
+Publication Year : qwqwe
+Total Copies  : qwqwe
+Available Copies : qwqwe
+Status        : Available
